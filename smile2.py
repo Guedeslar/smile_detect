@@ -82,7 +82,10 @@ while 1:
 
     # call the detector function
     num_smiles, image = detect(gray, frame.copy())
+    # 12312312312312
 
+
+    # frefsrg
     if num_smiles > max_smiles:
         max_smiles = num_smiles
         best_image = image
