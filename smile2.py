@@ -85,7 +85,7 @@ while 1:
     # 12312312312312
 
 
-    # frefsrg
+    # 5555555
     if num_smiles > max_smiles:
         max_smiles = num_smiles
         best_image = image
